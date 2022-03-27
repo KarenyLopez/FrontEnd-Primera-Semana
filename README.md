@@ -42,3 +42,14 @@ Perfil Demográfico
 Perfil de Comportamiento
 -	Personas activas
 -	Personas que busquen servicios rápidos
+
+Buyerpersona
+<img width="4173" alt="Buyer persona" src="https://user-images.githubusercontent.com/99081810/160300379-461870a5-4bdd-48e2-a4ae-3fc415f866ac.png">
+
+
+Wireframes
+![FOLIO Y CLAVE](https://user-images.githubusercontent.com/99081810/160300349-8fa962d2-29f8-47f6-9609-80a151709695.png)
+![INICIO](https://user-images.githubusercontent.com/99081810/160300351-47ef6c3d-43d5-4555-841c-5c1ff59c4d7a.png)
+![METIDO DE PAGO 1](https://user-images.githubusercontent.com/99081810/160300353-b32176a2-840c-4000-87dd-3fd7875cb052.png)
+![NUEVA SOLICITUD](https://user-images.githubusercontent.com/99081810/160300355-30513ca4-06c7-4651-8589-6576acb72814.png)
+![ESTADO DE LA DEMANDA](https://user-images.githubusercontent.com/99081810/160300356-34bbf235-b50f-4d5d-b71a-f46cb7f5b647.png)
